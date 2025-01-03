@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\MiCumple.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\FelizCumple.Resources.resources
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\MiCumple.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\MiCumple.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\FelizCumple\bin\Debug\FelizCumple.exe.config
+C:\Users\oswal\source\repos\FelizCumple\bin\Debug\FelizCumple.exe
+C:\Users\oswal\source\repos\FelizCumple\bin\Debug\FelizCumple.pdb
+C:\Users\oswal\source\repos\FelizCumple\bin\Debug\FelizCumple.xml
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\FelizCumple.exe
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\FelizCumple.xml
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\FelizCumple.pdb
+C:\Users\oswal\source\repos\FelizCumple\obj\Debug\FelizCumple.frmMicumple.resources
